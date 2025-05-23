@@ -1,9 +1,11 @@
 <script setup lang="ts">
-import { ref } from "vue";
+import { reactive, ref } from "vue";
+import type { User } from "../types/User.ts";
 
 defineProps<{ msg: string }>();
 
 const count = ref(0);
+const user = reactive<User>({} as User);
 </script>
 
 <template>

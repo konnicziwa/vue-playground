@@ -8,3 +8,4 @@
 - `alt + down` Move line down
 - `ctrl + enter` Start new line
 - `ctrl + alt + n` New file / directory
+- `f2` Rename
