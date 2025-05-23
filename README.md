@@ -9,3 +9,12 @@
 - `ctrl + enter` Start new line
 - `ctrl + alt + n` New file / directory
 - `f2` Rename
+
+# Git
+
+- `git config --global user.name`
+- `git config --global user.email`
+- `git config --global user.name "Yauhen Furmanau"`
+- `git config --global user.email "konnicziwa@gmail.com"`
+- `git remote -v`
+- `git remote set-url origin git@github.com:konnicziwa/vue-playground.git`
